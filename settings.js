@@ -22,9 +22,9 @@ global.SESSION_ID = process.env.SESSION_ID || ''
 
 global.botname = process.env.BOT_NAME || 'KANGO-XMD' 
 
-//-----------------[ OWNER NUMBER ]------------------//
+//-----------------[ +22890902462 ]------------------//
 
-global.ownernumber = process.env.OWNER_NUMBER || '233509977126' 
+global.ownernumber = process.env.OWNER_NUMBER || '22890902462' 
 
 //--------------------[ SUDO ]--------------------------//
 
